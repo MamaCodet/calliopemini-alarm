@@ -3,7 +3,7 @@
 
 ## Wie es funktioniert
 
-![Katzenalarm Video](https://github.com/mamacodet/calliopemini-alarm/raw/master/CalliopeMiniKatzenalarm.mp4)
+![Katzenalarm Video](https://github.com/mamacodet/calliopemini-alarm/raw/master/CalliopeMiniKatzenalarm_web.mp4)
 
 ## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/mamacodet/calliopemini-alarm/workflows/MakeCode/badge.svg)
 
