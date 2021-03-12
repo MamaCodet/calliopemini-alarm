@@ -1,6 +1,10 @@
 
 > Diese Seite bei [https://mamacodet.github.io/calliopemini-alarm/](https://mamacodet.github.io/calliopemini-alarm/) öffnen
 
+## Wie es funktioniert
+
+![Katzenalarm Video](https://github.com/mamacodet/calliopemini-alarm/raw/master/CalliopeMiniKatzenalarm.mp4)
+
 ## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/mamacodet/calliopemini-alarm/workflows/MakeCode/badge.svg)
 
 Um dieses Repository in MakeCode zu bearbeiten.
