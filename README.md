@@ -3,7 +3,7 @@
 
 ## Wie es funktioniert
 
-![Katzenalarm Video](https://youtu.be/du28CHHD1JY)
+YouTube Video: [https://youtu.be/du28CHHD1JY](https://youtu.be/du28CHHD1JY)
 
 ## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/mamacodet/calliopemini-alarm/workflows/MakeCode/badge.svg)
 
