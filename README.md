@@ -1,15 +1,6 @@
 
 > Diese Seite bei [https://mamacodet.github.io/calliopemini-alarm/](https://mamacodet.github.io/calliopemini-alarm/) öffnen
 
-## Als Erweiterung verwenden
-
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
-
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/mamacodet/calliopemini-alarm** suchen und importieren
-
 ## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/mamacodet/calliopemini-alarm/workflows/MakeCode/badge.svg)
 
 Um dieses Repository in MakeCode zu bearbeiten.
@@ -25,7 +16,4 @@ Die Aktualisierung dieses Bildes kann einige Minuten dauern.
 
 ![Eine gerenderte Ansicht der Blöcke](https://github.com/mamacodet/calliopemini-alarm/raw/master/calliopemini-alarm.png)
 
-#### Metadaten (verwendet für Suche, Rendering)
-
-* for PXT/calliopemini
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+### Viel Spaß! 🙂
